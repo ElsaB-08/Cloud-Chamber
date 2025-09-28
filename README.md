@@ -26,7 +26,7 @@ Other things I ordered:
  - thoriated tungsten welding rods (2% thorium)
  - dry ice (ordered after the box was constructed)
 
-What we already had:
+What I already had:
  - small clamps (for holding the perxpex and a right angle)
  - metal oven tray (to hold the dry ice)
  - scissors
