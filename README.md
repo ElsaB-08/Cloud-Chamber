@@ -12,6 +12,8 @@ I also found the following webpages useful:
 
 First, I designed the box. I chose perspex as it is transparent, cheap and fairly strong. All sides were 296x150x4 mm to make construction simple. The lid was made of 2 sheets of perspex, each 2mm thick, with one fitting the outer dimensions of the box (300x300 mm) and the other fitting the inner dimensions (292x292 mm). This was to ensure the lid fit snug in the box, reducing vapour loss.
 
+<img width="1134" height="1134" alt="Cloud Chamber Box 3D" src="https://github.com/user-attachments/assets/5b6a5b41-68dd-41d2-98fc-c5b9e82fa037" />
+
 I ordered pre-cut perxpex from https://www.perspexsheet.uk
 This made construction simpler and reduced the risk of issues building the box.
 
