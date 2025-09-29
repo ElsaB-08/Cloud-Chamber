@@ -103,9 +103,9 @@ There were a lot of unknowns which could have caused my calculation to be incorr
 
 ## Future experiments:
 
-If I repeat the experments I would make:
+If I repeat the experments I would make the following changes:
 
- - I would use a strong magnet to allow me to see the charge of the particles
- - more even lighting such as a string of LED lights or a larger torch
+ - use a strong magnet to allow me to see the charge of the particles
+ - use more even lighting such as a string of LED lights or a larger torch
  - I would try to calculate the speed of the particles emitted
- - clamp the lid to prevent vapour loss
+ - use a clamp on the lid to prevent vapour loss
